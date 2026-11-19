@@ -1,2 +1,2 @@
 # PCBX
-AI-Based Virtual PCB Inspection System – A Software Engineering CCA team project for reference-driven PCB inspection, defect detection, severity prediction, and correction guidance.
+PCBX is an AI-based virtual PCB inspection system that detects component deviations, evaluates PCB defects, predicts severity, suggests corrections, and supports re-inspection through a virtual simulation.
